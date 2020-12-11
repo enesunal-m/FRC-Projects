@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project timed_robot_assignment)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "timed_robot_assignment",
+    "language": "java"
+  }
+]

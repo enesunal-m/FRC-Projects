@@ -1,0 +1,11 @@
+[
+  {
+    "name": "timed_robot_assignment (in project timed_robot_assignment)",
+    "file": "D:\\FRC_2020\\Projects\\timed_robot_assignment\\build\\libs\\timed_robot_assignment.jar",
+    "extensions": [
+      "D:\\FRC_2020\\Projects\\timed_robot_assignment\\build\\tmp\\expandedArchives\\halsim_gui-2020.3.2-windowsx86-64.zip_45369a593bb959ce657791ae7ab7334a\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "D:\\FRC_2020\\Projects\\timed_robot_assignment\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
