@@ -131,7 +131,7 @@ public class Robot extends TimedRobot {
         // traveled distance calculation
         double leftDist = m_leftEncoder.getDistance();
         double rightDist = m_rightEncoder.getDistance();
-        double t_distance = Math.sqrt(leftDist*leftDist + rightDist*rightDist);
+        double t_distance = (leftDist + rightDist)/2;
         // double estimatedDist = Math.sqrt((x - s_X)*(x - s_X) + (y - s_Y)*(y - s_Y));
 
         // autonomous tank drive to the specified distance : for this practice it's 5 meters.
